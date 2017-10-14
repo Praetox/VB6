@@ -1,0 +1,11 @@
+’Name: {name}
+
+HP: {hp}
+Mana: {mana}
+ Position: {x}-{y}-{z}
+Online: {online}
+
+Lvl: {lvl}
+Exp: {exp}
+Exp2lvl: {exp2lvl}
+Maglvl: {maglvl}

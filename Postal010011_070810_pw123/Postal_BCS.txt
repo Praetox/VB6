@@ -1,0 +1,12 @@
+Bedre enn vanlig PM-sending(|)
+Er det ikke litt kjedelig å sende PMs på gamlemåten? Hadde det ikke vært mye bedre med noe som lignet litt på outlook express?
+
+Nå har Praetox (også kjent som Shade of Black) laget et helt nytt nordicmafia program - Postal. Dette programmet gjør kommunikasjon MYE lettere på nordic. Når du starter dette programmet, vil det automatisk hente ned de 15 nyeste PMene du har fått. Du kan bla igjennom disse uten noen form for ventetid - klikk på meldingen, og den er åpen på sekundet.
+
+Det er også muligheter for å "spamme" spillere, eller å sende meldingen til alle dine venner samtidig - du vil aldri trenge å tenke på den 20 sekunders ventetiden igjen.
+
+[b]Se en demofilm på youtube:[/b]
+http://www.youtube.com/watch?v=aw3dXwv5eno
+
+[b]Last ned Postal:[/b] (versjon 1.0.9)
+http://praetox.atspace.com

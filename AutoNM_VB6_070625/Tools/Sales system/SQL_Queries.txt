@@ -1,0 +1,5 @@
+INSERT INTO `users` VALUES ('', 'lol', 'kek', '', 'no', 'no');
+DELETE * FROM `users` WHERE Username='lol';
+SELECT * FROM `users`;
+SELECT * FROM `users` WHERE username='lol';
+UPDATE `users` SET LastIP='0.0.0.0' WHERE Username='lol';
